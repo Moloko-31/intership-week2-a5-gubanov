@@ -6,20 +6,9 @@ $RECYCLE.BIN/
 # файлы среды разработки PyCharm (Jetbrains)
 .idea/
 *.iml
-*.iws
-*.ipr
-out/
 
 # временный файлы и логи
 *.log
 *.tmp
 temp/
 tmp/
-
-# файлы Python
-__pycache__/
-*.py[cod]
-*$py.class
-venv/
-env/
-.virtualenv/
